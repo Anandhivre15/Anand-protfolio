@@ -1,3 +1,3 @@
 # Anand-protfolio
-Creating A new clone project  by using HTML and CSS .
-Anand protfolio
+Creating A new web page or clone by using HTML and CSS. 
+
